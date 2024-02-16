@@ -34,7 +34,7 @@
 .title__letter {
   width: 100vw;
   height: 50%;
-  position: absolute;
+  position: relative;
   background: rgba(0, 0, 0, 0.575);
   display: flex;
   justify-content: center;
