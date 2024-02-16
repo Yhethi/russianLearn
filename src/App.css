@@ -2,9 +2,19 @@
   margin: 0;
   padding: 0;
 }
+body {
+  background: black;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 .global__letters__container {
   width: 100vw;
   height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .position__background {
